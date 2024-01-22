@@ -2,6 +2,18 @@
  [Please click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmYwY2EyYmMtMDI1My00ZjkzLWEwMzYtOTc0NjMzNTFiZjQwIiwidCI6IjQ0MGFiNGIyLTE2YzMtNGQ3Yi04NjZkLTdlZWY4YmFmY2Y3MCJ9)
  <br />
 **Generated Data:** Please note that the data used in this project has been randomly generated, and the distribution may not accurately mirror actual scenarios. 
+<br />
+**Dashboard Overview:**
+•	The dashboard contains two report pages – one dedicated for financials and another for patient satisfaction analysis.
+<br />
+•	In the Financials report, the MTD/YTD buttons can be used to switch data between Month-to-Date (MTD) and Year-to-Date (YTD) in all visualizations, except the Net Income Trend chart.
+<br />
+•	In the Patient Satisfaction report page, the NPS gauge chart is designed to dynamically change colors based on the NPS score for the chosen filter selections.
+<br />
+o	Color Logic:
+	Red: NPS less than 0
+	Yellow: NPS between 0 and the goal value
+	Green: NPS greater than or equal to the goal value
 
 ### Data Model
 Please note that I have added all the columns used in the dashboard and excluded some which are not used (but available in the data files) to keep the ERD simple. 
