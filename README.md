@@ -1,1 +1,2 @@
 # Healthcare_Dashboard_PowerBI
+ [JK Clinics Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmYwY2EyYmMtMDI1My00ZjkzLWEwMzYtOTc0NjMzNTFiZjQwIiwidCI6IjQ0MGFiNGIyLTE2YzMtNGQ3Yi04NjZkLTdlZWY4YmFmY2Y3MCJ9)
