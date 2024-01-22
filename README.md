@@ -9,3 +9,7 @@ Please note that I have added all the columns used in the dashboard and excluded
 The following document contains all the DAX expressions used in the dashboard including measures (*DAX Measures* tab), calculated columns and calculated table (*DAX Calculated Columns|Table* tab). 
 <br />
 [DAX Expressions](https://github.com/JK15/Healthcare_Dashboard_PowerBI/blob/main/DAX%20Expressions.xlsx)
+
+### Dashboard Screenshots
+![Financials Dashboard](https://github.com/JK15/Healthcare_Dashboard_PowerBI/blob/main/Financial%20Dashboard.png)
+![Patient Satisfaction Report](https://github.com/JK15/Healthcare_Dashboard_PowerBI/blob/main/Patient%20Satisfaction%20Dashboard.png)
