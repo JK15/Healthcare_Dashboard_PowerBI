@@ -1,5 +1,6 @@
 ## Healthcare Dashboard
  [Please click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmYwY2EyYmMtMDI1My00ZjkzLWEwMzYtOTc0NjMzNTFiZjQwIiwidCI6IjQ0MGFiNGIyLTE2YzMtNGQ3Yi04NjZkLTdlZWY4YmFmY2Y3MCJ9)
+**Generated Data:** Please note that the data used in this project has been randomly generated, and the distribution may not accurately mirror actual scenarios. 
 
 ### Data Model
 Please note that I have added all the columns used in the dashboard and excluded some which are not used (but available in the data files) to keep the ERD simple. 
@@ -11,5 +12,13 @@ The following document contains all the DAX expressions used in the dashboard in
 [DAX Expressions](https://github.com/JK15/Healthcare_Dashboard_PowerBI/blob/main/DAX%20Expressions.xlsx)
 
 ### Dashboard Screenshots
+Financials dashboard
 ![Financials Dashboard](https://github.com/JK15/Healthcare_Dashboard_PowerBI/blob/main/Financial%20Dashboard.png)
+Patient Satisfaction Dashboard
 ![Patient Satisfaction Report](https://github.com/JK15/Healthcare_Dashboard_PowerBI/blob/main/Patient%20Satisfaction%20Dashboard.png)
+
+### Opportunities for Improvement
+The current dashboards show only a fraction (less than 10%) of insights that can be derived from a healthcare clinic establishment. There is a significant opportunity to enhance these dashboards providing a complete picture of the various functions within the business. The following improvements would aid the decision-makers in making informed decisions to improve care quality, financial performance, and the satisfaction of both staff and patients.
+1.	Refining the data model - Adding more detailed data to the existing model such as treatment specifics, schedules, resource availability
+2.	Additional dashboards for deeper analysis – Building new dashboard for providing insights into doctor performance, the effectiveness of various treatment options, insurance claim details. 
+3.	An overview dashboard for executives – Creating an high-level dashboard that offers a bird’s eye view of the activities across different functions.
