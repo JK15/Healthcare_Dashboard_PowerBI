@@ -4,6 +4,7 @@
 **Generated Data:** Please note that the data used in this project has been randomly generated, and the distribution may not accurately mirror actual scenarios. 
 <br />
 **Dashboard Overview:**
+<br />
 •	The dashboard contains two report pages – one dedicated for financials and another for patient satisfaction analysis.
 <br />
 •	In the Financials report, the MTD/YTD buttons can be used to switch data between Month-to-Date (MTD) and Year-to-Date (YTD) in all visualizations, except the Net Income Trend chart.
@@ -11,8 +12,11 @@
 •	In the Patient Satisfaction report page, the NPS gauge chart is designed to dynamically change colors based on the NPS score for the chosen filter selections.
 <br />
 o	Color Logic:
+<br />
 	Red: NPS less than 0
+<br />
 	Yellow: NPS between 0 and the goal value
+<br />
 	Green: NPS greater than or equal to the goal value
 
 ### Data Model
