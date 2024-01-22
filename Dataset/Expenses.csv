@@ -1,0 +1,901 @@
+ExpenseID,HospitalID,Year,Month,ExpenseType,ExpenseDescription,Amount
+1,1,2021,1,Rent,Illum consequatur quas excepturi.,15730
+2,1,2021,1,Salaries,Aliquid corrupti unde amet officia id et totam dolore et.,94380
+3,1,2021,1,Utilities,Magnam nihil aut assumenda distinctio vel dicta minus.,173030
+4,1,2021,1,Medical Supplies,Consectetur expedita ut delectus accusantium est voluptatem beatae ex.,173030
+5,1,2021,1,Maintenance,Laboriosam iusto assumenda necessitatibus.,15730
+6,2,2021,1,Rent,Sed fugiat est dolorem non aut et.,12100
+7,2,2021,1,Salaries,Eos in qui quae placeat rerum.,72600
+8,2,2021,1,Utilities,Dolorem fugit ducimus reiciendis.,121000
+9,2,2021,1,Medical Supplies,Voluptatem modi voluptas dignissimos sunt est ut earum fugit et.,121000
+10,2,2021,1,Maintenance,Exercitationem maxime quos.,12100
+11,3,2021,1,Rent,Minima id et sunt et fuga dolor.,12100
+12,3,2021,1,Salaries,Quasi magnam quia adipisci occaecati aliquam qui.,72600
+13,3,2021,1,Utilities,Non delectus tempore quis sint quos.,121000
+14,3,2021,1,Medical Supplies,Perspiciatis perspiciatis consectetur a aut perspiciatis deserunt et consectetur.,121000
+15,3,2021,1,Maintenance,Provident rerum qui culpa distinctio quia ex eos aut et.,12100
+16,4,2021,1,Rent,Praesentium animi illum eos ullam accusantium perferendis cum qui nihil.,12100
+17,4,2021,1,Salaries,Pariatur veritatis numquam enim sunt perferendis facilis consequuntur.,72600
+18,4,2021,1,Utilities,Nihil sequi corrupti minima.,121000
+19,4,2021,1,Medical Supplies,Voluptatibus ea sed id.,121000
+20,4,2021,1,Maintenance,Ea expedita doloremque fuga quia voluptas.,12100
+21,5,2021,1,Rent,Suscipit hic eos voluptas.,15730
+22,5,2021,1,Salaries,Quisquam est ullam aperiam tempore modi saepe modi tenetur.,94380
+23,5,2021,1,Utilities,Eveniet et deleniti at repellat.,173030
+24,5,2021,1,Medical Supplies,Officia quis ex voluptas et doloremque omnis.,173030
+25,5,2021,1,Maintenance,Expedita minima excepturi.,15730
+26,1,2021,2,Rent,Voluptates debitis minus molestiae beatae velit et et minus.,15730
+27,1,2021,2,Salaries,Iusto velit vitae numquam beatae consectetur sed.,94380
+28,1,2021,2,Utilities,Corrupti deleniti veritatis magnam reprehenderit eum deserunt et.,173030
+29,1,2021,2,Medical Supplies,Excepturi exercitationem et rerum autem.,173030
+30,1,2021,2,Maintenance,Cum quia beatae aut ut ut qui.,15730
+31,2,2021,2,Rent,Omnis labore porro at adipisci voluptatem vero explicabo.,12100
+32,2,2021,2,Salaries,Excepturi aspernatur autem autem.,72600
+33,2,2021,2,Utilities,Ex reprehenderit vel omnis ea.,121000
+34,2,2021,2,Medical Supplies,Est maxime dignissimos quaerat ut dolorem.,121000
+35,2,2021,2,Maintenance,Et laboriosam quo velit explicabo.,12100
+36,3,2021,2,Rent,Error accusantium neque aut.,12100
+37,3,2021,2,Salaries,Id dicta in.,72600
+38,3,2021,2,Utilities,Consequatur et eveniet ipsam magni quae aut libero voluptates.,121000
+39,3,2021,2,Medical Supplies,Officiis blanditiis commodi adipisci reiciendis veritatis ad earum rerum.,121000
+40,3,2021,2,Maintenance,Deserunt adipisci quam a error minima omnis dolorem veritatis.,12100
+41,4,2021,2,Rent,Iste enim enim.,12100
+42,4,2021,2,Salaries,Voluptas nemo reprehenderit voluptatibus beatae.,72600
+43,4,2021,2,Utilities,Quo nemo dolorem et explicabo molestiae officia aut est.,121000
+44,4,2021,2,Medical Supplies,Qui nihil perspiciatis qui.,121000
+45,4,2021,2,Maintenance,Qui debitis qui voluptas et aspernatur et eos.,12100
+46,5,2021,2,Rent,Rerum odit pariatur veniam.,15730
+47,5,2021,2,Salaries,Laborum consequatur quidem nemo delectus modi ut.,94380
+48,5,2021,2,Utilities,Eius ad ad tenetur.,173030
+49,5,2021,2,Medical Supplies,Doloribus et cum ipsa ab qui.,173030
+50,5,2021,2,Maintenance,Omnis tempora corrupti vero officiis molestiae et qui.,15730
+51,1,2021,3,Rent,Ab reprehenderit eos molestiae sit ratione.,15730
+52,1,2021,3,Salaries,Sed exercitationem maxime vel laborum.,94380
+53,1,2021,3,Utilities,Et a delectus qui porro sed quidem sint excepturi.,173030
+54,1,2021,3,Medical Supplies,Possimus in sunt.,173030
+55,1,2021,3,Maintenance,Aut veritatis excepturi consequatur non.,15730
+56,2,2021,3,Rent,In sint rerum repudiandae quam.,12100
+57,2,2021,3,Salaries,Omnis assumenda eveniet eos.,72600
+58,2,2021,3,Utilities,Aut at repudiandae doloribus consequatur autem quae.,121000
+59,2,2021,3,Medical Supplies,Dolores eum voluptatum voluptatem est accusamus consectetur consectetur eum.,121000
+60,2,2021,3,Maintenance,Et sed possimus.,12100
+61,3,2021,3,Rent,Quibusdam dolores blanditiis voluptatem consequatur expedita assumenda.,12100
+62,3,2021,3,Salaries,Quis hic labore vero est.,72600
+63,3,2021,3,Utilities,Iste ad aut itaque officiis laboriosam ipsa.,121000
+64,3,2021,3,Medical Supplies,Quia id tempore et reiciendis recusandae ipsum at magnam ea.,121000
+65,3,2021,3,Maintenance,Sapiente temporibus culpa quia accusantium repellat.,12100
+66,4,2021,3,Rent,Labore quas nobis dolores quis.,12100
+67,4,2021,3,Salaries,Non dolorum reiciendis facilis autem nisi odit.,72600
+68,4,2021,3,Utilities,Cum qui dolores est.,121000
+69,4,2021,3,Medical Supplies,Quod illum enim quasi.,121000
+70,4,2021,3,Maintenance,Laborum recusandae facere repellendus id sit illo.,12100
+71,5,2021,3,Rent,Ab et et accusantium optio nobis sint qui.,15730
+72,5,2021,3,Salaries,Quibusdam impedit alias aut.,94380
+73,5,2021,3,Utilities,In et voluptatem eligendi distinctio rem nisi reiciendis repudiandae atque.,173030
+74,5,2021,3,Medical Supplies,Distinctio facilis libero excepturi molestiae qui velit vero harum quasi.,173030
+75,5,2021,3,Maintenance,Ad quae modi deleniti.,15730
+76,1,2021,4,Rent,Voluptates incidunt nihil voluptas et saepe vel.,15730
+77,1,2021,4,Salaries,Magni et deserunt quidem.,94380
+78,1,2021,4,Utilities,Aperiam sint asperiores adipisci ullam itaque fugit reiciendis voluptatem.,173030
+79,1,2021,4,Medical Supplies,Ab voluptas dolorum qui quasi quaerat porro corporis.,173030
+80,1,2021,4,Maintenance,Consequatur nihil accusamus consequatur pariatur quia necessitatibus.,15730
+81,2,2021,4,Rent,Amet totam libero aperiam quia odit saepe repellendus delectus qui.,12100
+82,2,2021,4,Salaries,Consequuntur nesciunt asperiores reiciendis ad earum animi qui.,72600
+83,2,2021,4,Utilities,Esse perferendis exercitationem et.,121000
+84,2,2021,4,Medical Supplies,Voluptas dolores nulla et ipsa.,121000
+85,2,2021,4,Maintenance,Cumque saepe dolor dolores a facilis beatae non eveniet omnis.,12100
+86,3,2021,4,Rent,Sit quia omnis quibusdam.,12100
+87,3,2021,4,Salaries,Necessitatibus iure accusamus magni aut voluptatem id.,72600
+88,3,2021,4,Utilities,Consequatur aut est eum hic rerum.,121000
+89,3,2021,4,Medical Supplies,Quae harum sed cumque velit minus animi sit.,121000
+90,3,2021,4,Maintenance,Voluptatem tempora harum veritatis aspernatur minus vitae repellendus dolore voluptatem.,12100
+91,4,2021,4,Rent,Dolorem incidunt voluptatem consequatur.,12100
+92,4,2021,4,Salaries,Debitis debitis velit quis qui fugit doloribus et.,72600
+93,4,2021,4,Utilities,Quos unde voluptatem.,121000
+94,4,2021,4,Medical Supplies,Culpa veritatis ipsam.,121000
+95,4,2021,4,Maintenance,Nesciunt repellendus id omnis dicta dolor.,12100
+96,5,2021,4,Rent,Cumque rem sapiente reprehenderit consequatur.,15730
+97,5,2021,4,Salaries,Porro pariatur recusandae ut et voluptatum ipsam omnis sunt earum.,94380
+98,5,2021,4,Utilities,Ea autem et molestiae error possimus at amet vel nobis.,173030
+99,5,2021,4,Medical Supplies,Ducimus omnis voluptas quasi in beatae saepe ut.,173030
+100,5,2021,4,Maintenance,Et hic ut quasi consequatur qui rerum nihil repellat.,15730
+101,1,2021,5,Rent,Dolore placeat qui corrupti harum veniam et quia autem.,15730
+102,1,2021,5,Salaries,Aut quisquam voluptatem quo inventore nihil natus eum.,94380
+103,1,2021,5,Utilities,Qui optio eos et minus illo voluptate quidem.,173030
+104,1,2021,5,Medical Supplies,Ad voluptatibus praesentium est sed aperiam occaecati tempore ut.,173030
+105,1,2021,5,Maintenance,Et aspernatur hic dicta reiciendis rerum dolor.,15730
+106,2,2021,5,Rent,Consequatur aut aut expedita voluptatem.,12100
+107,2,2021,5,Salaries,Corporis praesentium dolores.,72600
+108,2,2021,5,Utilities,Vero velit non.,121000
+109,2,2021,5,Medical Supplies,Cum rerum tempore quisquam ad illum atque et aliquid.,121000
+110,2,2021,5,Maintenance,Ea ut facilis repellendus aliquid.,12100
+111,3,2021,5,Rent,Reiciendis perferendis vel qui.,12100
+112,3,2021,5,Salaries,Repellendus harum et et aperiam id cumque harum.,72600
+113,3,2021,5,Utilities,Modi eos voluptatem a dolorem molestias.,121000
+114,3,2021,5,Medical Supplies,At velit voluptates perferendis molestiae harum voluptas impedit error.,121000
+115,3,2021,5,Maintenance,Ut totam vitae tempore voluptatibus quam eaque natus et ea.,12100
+116,4,2021,5,Rent,Earum ratione accusamus rerum nostrum eligendi omnis.,12100
+117,4,2021,5,Salaries,Dolores minus ratione ab est explicabo sint omnis aliquam.,72600
+118,4,2021,5,Utilities,Enim quia magnam eligendi porro aliquam doloremque asperiores pariatur.,121000
+119,4,2021,5,Medical Supplies,Quibusdam non iure maxime cumque sit dolores enim.,121000
+120,4,2021,5,Maintenance,Id dolorum soluta illo odio pariatur molestiae neque inventore cum.,12100
+121,5,2021,5,Rent,Aut error nihil eos dolorem sit modi nisi vero nobis.,15730
+122,5,2021,5,Salaries,Dicta enim dolores reiciendis quam expedita.,94380
+123,5,2021,5,Utilities,Vel sequi ut accusantium deleniti quia minus.,173030
+124,5,2021,5,Medical Supplies,Quasi quo rerum laborum nobis.,173030
+125,5,2021,5,Maintenance,Facere adipisci eius molestiae pariatur hic similique quo quasi.,15730
+126,1,2021,6,Rent,Optio illum nihil beatae praesentium ullam autem ut eius.,15730
+127,1,2021,6,Salaries,Temporibus accusantium voluptatem dolor sed.,94380
+128,1,2021,6,Utilities,Doloremque at neque.,173030
+129,1,2021,6,Medical Supplies,Et voluptatibus quidem sed.,173030
+130,1,2021,6,Maintenance,Molestiae quisquam corrupti et.,15730
+131,2,2021,6,Rent,Eum maiores optio qui et velit rerum.,12100
+132,2,2021,6,Salaries,Est suscipit consequatur quibusdam ad dolore.,72600
+133,2,2021,6,Utilities,Quia impedit error itaque sed sint expedita.,121000
+134,2,2021,6,Medical Supplies,Aperiam reprehenderit sapiente ipsam vel eum doloremque et est distinctio.,121000
+135,2,2021,6,Maintenance,Accusamus inventore quae vitae omnis.,12100
+136,3,2021,6,Rent,Et est magni commodi et voluptatibus.,12100
+137,3,2021,6,Salaries,Quam molestias quasi sapiente.,72600
+138,3,2021,6,Utilities,Et ex est architecto.,121000
+139,3,2021,6,Medical Supplies,Dicta corrupti ut laudantium et mollitia unde.,121000
+140,3,2021,6,Maintenance,A a quia ab quisquam.,12100
+141,4,2021,6,Rent,Quo quasi amet occaecati omnis expedita necessitatibus nam.,12100
+142,4,2021,6,Salaries,Alias id at consequatur esse eos non.,72600
+143,4,2021,6,Utilities,Aut eveniet magni dolorem est et sint voluptatem.,121000
+144,4,2021,6,Medical Supplies,Eum repudiandae itaque consequatur repudiandae earum.,121000
+145,4,2021,6,Maintenance,Ut nemo voluptatem maxime dolores.,12100
+146,5,2021,6,Rent,Maiores accusamus voluptas quaerat.,15730
+147,5,2021,6,Salaries,Totam qui fugit.,94380
+148,5,2021,6,Utilities,Pariatur et non similique vel rerum veniam sint ab.,173030
+149,5,2021,6,Medical Supplies,At dignissimos sit aliquid rem molestiae at mollitia animi.,173030
+150,5,2021,6,Maintenance,Voluptas qui explicabo quis eligendi asperiores fugiat dolorem.,15730
+151,1,2021,7,Rent,Earum consequatur doloremque assumenda voluptas explicabo facilis dolorem perspiciatis.,15730
+152,1,2021,7,Salaries,Id aut necessitatibus ut nesciunt fuga unde dolores sunt nulla.,94380
+153,1,2021,7,Utilities,Amet incidunt dignissimos quia et facere explicabo et.,173030
+154,1,2021,7,Medical Supplies,Voluptas sed cumque eaque omnis rerum qui.,173030
+155,1,2021,7,Maintenance,Dolorum sed aut fugiat est quia sunt nesciunt.,15730
+156,2,2021,7,Rent,Beatae quasi quia est sunt molestias ut non nostrum cumque.,12100
+157,2,2021,7,Salaries,Voluptas saepe asperiores qui suscipit et et.,72600
+158,2,2021,7,Utilities,Doloribus omnis consectetur sit.,121000
+159,2,2021,7,Medical Supplies,Mollitia ratione velit qui ut accusantium.,121000
+160,2,2021,7,Maintenance,Quod necessitatibus quaerat natus.,12100
+161,3,2021,7,Rent,Magni nihil ut reiciendis.,12100
+162,3,2021,7,Salaries,Illum porro doloremque aspernatur aut.,72600
+163,3,2021,7,Utilities,Iusto soluta architecto molestiae voluptas et voluptatum architecto at.,121000
+164,3,2021,7,Medical Supplies,Quia non expedita quasi fuga.,121000
+165,3,2021,7,Maintenance,Aut et autem culpa odio voluptas.,12100
+166,4,2021,7,Rent,Eveniet qui non.,12100
+167,4,2021,7,Salaries,Autem enim ducimus exercitationem asperiores occaecati non ratione eum deserunt.,72600
+168,4,2021,7,Utilities,Eos quis ea odit.,121000
+169,4,2021,7,Medical Supplies,Illum sed esse sit at tempore debitis laudantium.,121000
+170,4,2021,7,Maintenance,Ipsum tempora omnis et accusamus perferendis illo.,12100
+171,5,2021,7,Rent,Neque molestiae qui optio reprehenderit repellendus asperiores vel numquam ad.,15730
+172,5,2021,7,Salaries,Soluta est ipsum beatae nobis ea maxime consequatur deserunt beatae.,94380
+173,5,2021,7,Utilities,Est porro soluta quis voluptatem et nostrum nisi.,173030
+174,5,2021,7,Medical Supplies,Cupiditate itaque excepturi.,173030
+175,5,2021,7,Maintenance,Iusto quidem temporibus.,15730
+176,1,2021,8,Rent,Sed aut unde non ex fugit qui.,15730
+177,1,2021,8,Salaries,Non at ipsam et et rerum error praesentium.,94380
+178,1,2021,8,Utilities,Deserunt est iste.,173030
+179,1,2021,8,Medical Supplies,Officiis consequatur tenetur iure pariatur cupiditate quo ad rem quos.,173030
+180,1,2021,8,Maintenance,Quo voluptatibus enim ratione.,15730
+181,2,2021,8,Rent,Reiciendis ut est ut nulla doloremque voluptas est.,12100
+182,2,2021,8,Salaries,Eius accusantium dolor fugit voluptas commodi.,72600
+183,2,2021,8,Utilities,Quidem velit autem a aliquid blanditiis neque molestiae.,121000
+184,2,2021,8,Medical Supplies,Molestiae et corrupti veniam animi molestiae suscipit.,121000
+185,2,2021,8,Maintenance,Ducimus amet eius.,12100
+186,3,2021,8,Rent,Delectus qui doloribus eum facere et.,12100
+187,3,2021,8,Salaries,Quia magnam rem quibusdam.,72600
+188,3,2021,8,Utilities,Et dolorum in eligendi in mollitia tempora quos et excepturi.,121000
+189,3,2021,8,Medical Supplies,Vitae quidem sed qui dignissimos quo qui aut iusto.,121000
+190,3,2021,8,Maintenance,Exercitationem qui quia sint sed dolorem accusantium.,12100
+191,4,2021,8,Rent,Et amet suscipit et.,12100
+192,4,2021,8,Salaries,Reprehenderit quia aut.,72600
+193,4,2021,8,Utilities,Ut libero id quas ratione non at delectus recusandae sunt.,121000
+194,4,2021,8,Medical Supplies,Sit nisi qui in nihil reprehenderit.,121000
+195,4,2021,8,Maintenance,Reprehenderit dolores qui.,12100
+196,5,2021,8,Rent,Cumque aut quidem corporis magni porro voluptas quia molestiae.,15730
+197,5,2021,8,Salaries,Assumenda nam adipisci quasi.,94380
+198,5,2021,8,Utilities,Provident consequuntur exercitationem aperiam consequatur et vel qui alias.,173030
+199,5,2021,8,Medical Supplies,Perferendis in deleniti qui sed id accusantium fugit dolore distinctio.,173030
+200,5,2021,8,Maintenance,In vel aliquam voluptates consequatur rerum neque fugit mollitia debitis.,15730
+201,1,2021,9,Rent,Consectetur qui dolor ut corporis quia deserunt.,15730
+202,1,2021,9,Salaries,Necessitatibus numquam velit dicta natus reiciendis aut optio in qui.,94380
+203,1,2021,9,Utilities,Ab nemo omnis at possimus laboriosam molestiae amet.,173030
+204,1,2021,9,Medical Supplies,Iure sapiente facilis ut quae qui enim minus et.,173030
+205,1,2021,9,Maintenance,Unde ut deserunt nostrum iure molestiae non ut.,15730
+206,2,2021,9,Rent,Laboriosam sit est aut qui quaerat tempora ea eos.,12100
+207,2,2021,9,Salaries,Officiis quaerat voluptatem.,72600
+208,2,2021,9,Utilities,Sit alias vel assumenda.,121000
+209,2,2021,9,Medical Supplies,Porro in veniam quia animi eos.,121000
+210,2,2021,9,Maintenance,Numquam eum delectus dolore officia et sint odit suscipit.,12100
+211,3,2021,9,Rent,Consequatur ratione porro.,12100
+212,3,2021,9,Salaries,Aut blanditiis rem dolorem quasi id id.,72600
+213,3,2021,9,Utilities,Tempora officia voluptas beatae distinctio ipsam est.,121000
+214,3,2021,9,Medical Supplies,Suscipit placeat veritatis suscipit quia eius sed et.,121000
+215,3,2021,9,Maintenance,Omnis natus adipisci in dolorem iure voluptatum omnis deleniti facilis.,12100
+216,4,2021,9,Rent,Ipsum dicta possimus.,12100
+217,4,2021,9,Salaries,Totam neque quam dolorum.,72600
+218,4,2021,9,Utilities,Blanditiis delectus cum et doloribus sunt sequi.,121000
+219,4,2021,9,Medical Supplies,Voluptate sit aliquid aut veniam blanditiis.,121000
+220,4,2021,9,Maintenance,Et similique autem.,12100
+221,5,2021,9,Rent,Qui sint est delectus.,15730
+222,5,2021,9,Salaries,Dignissimos nihil quae ut mollitia et.,94380
+223,5,2021,9,Utilities,Maxime cum sunt autem enim inventore qui labore necessitatibus rem.,173030
+224,5,2021,9,Medical Supplies,Quis amet quis vitae voluptas totam sed.,173030
+225,5,2021,9,Maintenance,Vitae deleniti eveniet.,15730
+226,1,2021,10,Rent,Est laboriosam fugiat ut fugiat.,15730
+227,1,2021,10,Salaries,Et aliquam sed cumque repellendus vel neque est voluptatum.,94380
+228,1,2021,10,Utilities,Ipsam qui dolorem a illo est suscipit.,173030
+229,1,2021,10,Medical Supplies,Voluptatem eum voluptas officiis voluptatibus doloribus corporis sit necessitatibus.,173030
+230,1,2021,10,Maintenance,Adipisci aperiam modi aut ducimus.,15730
+231,2,2021,10,Rent,Esse nesciunt numquam praesentium dolorem dolore recusandae et possimus autem.,12100
+232,2,2021,10,Salaries,Hic similique velit ut ducimus.,72600
+233,2,2021,10,Utilities,Quod quam magnam sit qui culpa adipisci omnis est.,121000
+234,2,2021,10,Medical Supplies,Voluptatem labore nihil veritatis nobis aut facere cupiditate culpa et.,121000
+235,2,2021,10,Maintenance,Ut velit dolorum sequi laboriosam voluptatem omnis maxime voluptatem cum.,12100
+236,3,2021,10,Rent,Repudiandae eligendi ducimus et blanditiis.,12100
+237,3,2021,10,Salaries,Quia id magnam.,72600
+238,3,2021,10,Utilities,Voluptatum ut ut molestiae.,121000
+239,3,2021,10,Medical Supplies,Doloremque perferendis illo.,121000
+240,3,2021,10,Maintenance,Voluptatem a in numquam perferendis quo suscipit consequatur.,12100
+241,4,2021,10,Rent,Doloribus tenetur deserunt rem ab rerum enim.,12100
+242,4,2021,10,Salaries,Adipisci explicabo repellendus.,72600
+243,4,2021,10,Utilities,Nisi facilis debitis atque ea voluptatibus sapiente repellat.,121000
+244,4,2021,10,Medical Supplies,Quis tenetur illo beatae quis.,121000
+245,4,2021,10,Maintenance,Sequi distinctio non qui facilis.,12100
+246,5,2021,10,Rent,Explicabo velit sed placeat officiis necessitatibus eos eveniet.,15730
+247,5,2021,10,Salaries,Iste sed qui voluptas cupiditate dolores consectetur.,94380
+248,5,2021,10,Utilities,Voluptas fugiat nihil.,173030
+249,5,2021,10,Medical Supplies,Quibusdam qui est iste voluptatem sapiente magnam tempore temporibus.,173030
+250,5,2021,10,Maintenance,Eos et quis et.,15730
+251,1,2021,11,Rent,Doloribus et sunt dolore facere inventore et.,15730
+252,1,2021,11,Salaries,Officiis cum sunt similique aut.,94380
+253,1,2021,11,Utilities,Dolores necessitatibus aut ipsa dolorem incidunt sequi quo amet sunt.,173030
+254,1,2021,11,Medical Supplies,Aut rerum qui accusantium nam asperiores est.,173030
+255,1,2021,11,Maintenance,Aperiam voluptatibus ut ipsum inventore.,15730
+256,2,2021,11,Rent,Amet non aut et et et.,12100
+257,2,2021,11,Salaries,Voluptatem labore corrupti et est.,72600
+258,2,2021,11,Utilities,Aut ut amet et qui officia ut.,121000
+259,2,2021,11,Medical Supplies,Consequatur deleniti similique sed voluptatem ducimus aspernatur laborum.,121000
+260,2,2021,11,Maintenance,Qui eum ut vitae voluptas delectus ea.,12100
+261,3,2021,11,Rent,Rerum aut placeat tenetur et.,12100
+262,3,2021,11,Salaries,Nemo iste ratione est ut fugit.,72600
+263,3,2021,11,Utilities,Aut nostrum quas eligendi amet id distinctio aperiam dolor.,121000
+264,3,2021,11,Medical Supplies,Perferendis accusamus aut facere consequatur eos molestias esse accusantium.,121000
+265,3,2021,11,Maintenance,Numquam vel dolor quaerat ex est.,12100
+266,4,2021,11,Rent,Sapiente vitae ipsam asperiores nobis natus.,12100
+267,4,2021,11,Salaries,Ut porro error in maxime delectus fuga et repudiandae aut.,72600
+268,4,2021,11,Utilities,Laboriosam quia nobis porro dolores et rerum incidunt.,121000
+269,4,2021,11,Medical Supplies,Esse optio occaecati.,121000
+270,4,2021,11,Maintenance,Voluptas possimus ea reiciendis ipsum officia labore impedit.,12100
+271,5,2021,11,Rent,Saepe officia ipsam possimus pariatur cupiditate.,15730
+272,5,2021,11,Salaries,Adipisci excepturi quisquam doloribus distinctio.,94380
+273,5,2021,11,Utilities,Velit quos ut voluptatem est fuga nostrum nesciunt.,173030
+274,5,2021,11,Medical Supplies,Beatae facere quo labore deleniti qui.,173030
+275,5,2021,11,Maintenance,Similique reprehenderit inventore aliquam quia.,15730
+276,1,2021,12,Rent,Vel maxime voluptates est delectus non quidem architecto vero.,15730
+277,1,2021,12,Salaries,Sit cupiditate ut impedit impedit qui.,94380
+278,1,2021,12,Utilities,Nemo doloribus commodi.,173030
+279,1,2021,12,Medical Supplies,Sapiente et ut harum mollitia quisquam nulla.,173030
+280,1,2021,12,Maintenance,Consequuntur nisi natus.,15730
+281,2,2021,12,Rent,Amet iure placeat.,12100
+282,2,2021,12,Salaries,Quisquam exercitationem iusto voluptatem eos illum magni expedita harum.,72600
+283,2,2021,12,Utilities,Sed pariatur distinctio.,121000
+284,2,2021,12,Medical Supplies,Vel eum corporis qui.,121000
+285,2,2021,12,Maintenance,Aut reiciendis voluptate perspiciatis iste quod enim magni nostrum rem.,12100
+286,3,2021,12,Rent,Et velit magnam non ipsum reprehenderit iusto.,12100
+287,3,2021,12,Salaries,Atque alias libero vero sit et odio et.,72600
+288,3,2021,12,Utilities,Quo ad possimus ut aut et commodi repudiandae.,121000
+289,3,2021,12,Medical Supplies,In non expedita similique aut possimus et qui dolores facilis.,121000
+290,3,2021,12,Maintenance,Repellat voluptas tempora sit.,12100
+291,4,2021,12,Rent,Qui quia provident odio qui.,12100
+292,4,2021,12,Salaries,Unde ipsum velit qui sapiente ut quae consectetur.,72600
+293,4,2021,12,Utilities,Expedita unde ut rerum officia esse veritatis.,121000
+294,4,2021,12,Medical Supplies,Numquam et consectetur aut.,121000
+295,4,2021,12,Maintenance,Sapiente minus omnis libero id natus nulla quod.,12100
+296,5,2021,12,Rent,Qui quo eos sunt error fuga rerum id et temporibus.,15730
+297,5,2021,12,Salaries,Corrupti et nostrum eos eos eum voluptas corrupti velit ducimus.,94380
+298,5,2021,12,Utilities,Assumenda voluptas labore quo omnis aperiam voluptas illo.,173030
+299,5,2021,12,Medical Supplies,Velit repellat commodi qui ducimus deserunt.,173030
+300,5,2021,12,Maintenance,Est inventore voluptas est quia accusantium.,15730
+301,1,2022,1,Rent,Nemo alias provident.,19034.600000000002
+302,1,2022,1,Salaries,Adipisci nesciunt odit velit molestiae eius ex illum in iusto.,114199.8
+303,1,2022,1,Utilities,Nostrum aut dolor deserunt ea non qui vitae voluptatem.,209366.30000000002
+304,1,2022,1,Medical Supplies,Et officia laboriosam molestiae aut velit praesentium ea.,209366.30000000002
+305,1,2022,1,Maintenance,Neque sapiente et ut eos est quae ea accusantium.,19032
+306,2,2022,1,Rent,Possimus aliquam magnam dolorem nihil doloribus excepturi veritatis cumque.,14642
+307,2,2022,1,Salaries,Dolores nobis saepe ut in tempore eos.,87846
+308,2,2022,1,Utilities,Fuga soluta suscipit.,146410
+309,2,2022,1,Medical Supplies,Cupiditate consequatur animi non sit aut rem asperiores ut sunt.,146410
+310,2,2022,1,Maintenance,A veniam occaecati cupiditate.,14642
+311,3,2022,1,Rent,Maiores aut ut hic nam sint.,14642
+312,3,2022,1,Salaries,Eos magni voluptate quia et modi aut consequatur ab.,87846
+313,3,2022,1,Utilities,Sint fugiat eligendi aut voluptatibus fuga quis et.,146410
+314,3,2022,1,Medical Supplies,Aperiam reiciendis autem.,146410
+315,3,2022,1,Maintenance,Hic aut esse consequatur.,14640
+316,4,2022,1,Rent,Est ex adipisci repellendus voluptas voluptatum voluptatibus repudiandae est a.,14640
+317,4,2022,1,Salaries,Tenetur in rem amet perferendis recusandae et vero molestiae rerum.,87846
+318,4,2022,1,Utilities,Iure tempora laudantium omnis est.,146410
+319,4,2022,1,Medical Supplies,Rerum saepe sit dolor sint deleniti iste ex reprehenderit.,146410
+320,4,2022,1,Maintenance,Non libero est nostrum quas perspiciatis molestiae eos voluptates.,14640
+321,5,2022,1,Rent,Nobis beatae quibusdam praesentium esse.,19034.600000000002
+322,5,2022,1,Salaries,Dolore repudiandae veniam omnis aliquam quia minus.,114199.8
+323,5,2022,1,Utilities,Officia nam ut et.,209366.30000000002
+324,5,2022,1,Medical Supplies,Illum minima laudantium est ut ipsa deleniti.,209366.30000000002
+325,5,2022,1,Maintenance,Sunt nisi deserunt maiores.,19034.600000000002
+326,1,2022,2,Rent,Amet ipsum et consequatur sint repudiandae.,19034.600000000002
+327,1,2022,2,Salaries,Ut accusantium voluptates et inventore quos.,114199.8
+328,1,2022,2,Utilities,Officiis aliquid qui corporis saepe recusandae illo sed.,209366.30000000002
+329,1,2022,2,Medical Supplies,Vel deleniti voluptatem.,209366.30000000002
+330,1,2022,2,Maintenance,Dicta et ut dolor earum saepe asperiores dolorem consequuntur et.,19034.600000000002
+331,2,2022,2,Rent,Accusamus maxime omnis recusandae ex pariatur voluptas saepe.,14640
+332,2,2022,2,Salaries,Ipsam harum possimus et labore voluptatem labore.,87846
+333,2,2022,2,Utilities,Esse quas ut qui voluptates.,146410
+334,2,2022,2,Medical Supplies,Quaerat ducimus nihil quidem aspernatur.,146410
+335,2,2022,2,Maintenance,Accusamus aut itaque neque suscipit expedita non dolorem.,14642
+336,3,2022,2,Rent,Aut assumenda quasi enim quis incidunt et aperiam molestiae.,14642
+337,3,2022,2,Salaries,Quasi consequuntur omnis impedit qui suscipit commodi et.,87846
+338,3,2022,2,Utilities,Id eum tempore molestiae praesentium harum distinctio quidem voluptatem.,146410
+339,3,2022,2,Medical Supplies,Officiis nisi minus qui asperiores nobis.,146410
+340,3,2022,2,Maintenance,Eligendi laborum consequatur sint possimus corporis et quia.,14642
+341,4,2022,2,Rent,Et et quasi fugit officiis sit quis.,14642
+342,4,2022,2,Salaries,Et ullam expedita.,87846
+343,4,2022,2,Utilities,Sit non voluptatem iure enim.,146410
+344,4,2022,2,Medical Supplies,Eos autem et voluptatem sed quod.,146410
+345,4,2022,2,Maintenance,Libero debitis aut quaerat ut est laboriosam molestias.,14640
+346,5,2022,2,Rent,Quae sit amet nam vero porro quae.,19034.600000000002
+347,5,2022,2,Salaries,Ut ex veniam.,114199.8
+348,5,2022,2,Utilities,Doloribus aspernatur mollitia eius blanditiis praesentium et.,209366.30000000002
+349,5,2022,2,Medical Supplies,Quas sed architecto facere fugiat suscipit omnis velit.,209366.30000000002
+350,5,2022,2,Maintenance,Totam modi magni molestiae sequi molestiae harum ad neque quod.,19032
+351,1,2022,3,Rent,Dolor id perspiciatis ratione dolore quo itaque omnis.,19032
+352,1,2022,3,Salaries,Dolor a voluptatibus.,114199.8
+353,1,2022,3,Utilities,Nihil aut est et earum.,209366.30000000002
+354,1,2022,3,Medical Supplies,Esse et laborum omnis suscipit sapiente repudiandae dolorum.,209366.30000000002
+355,1,2022,3,Maintenance,Ducimus ut ut soluta amet libero aliquam unde consectetur.,19034.600000000002
+356,2,2022,3,Rent,Itaque quia quam.,14640
+357,2,2022,3,Salaries,Officia qui atque culpa voluptatum modi ea consequatur.,87846
+358,2,2022,3,Utilities,Fugiat dolorum sit voluptatem.,146410
+359,2,2022,3,Medical Supplies,Sint tenetur autem quo accusantium non non officiis sint quam.,146410
+360,2,2022,3,Maintenance,Molestiae qui dolorem libero culpa saepe totam sapiente quod repudiandae.,14642
+361,3,2022,3,Rent,Dicta atque amet quis et incidunt aut optio quisquam unde.,14640
+362,3,2022,3,Salaries,Est aut et temporibus amet velit minima exercitationem nihil enim.,87846
+363,3,2022,3,Utilities,Atque magnam aperiam omnis adipisci deserunt vero veritatis officia qui.,146410
+364,3,2022,3,Medical Supplies,Velit quaerat nobis error.,146410
+365,3,2022,3,Maintenance,Et sint vel.,14642
+366,4,2022,3,Rent,Praesentium nostrum cumque eaque corporis necessitatibus asperiores harum.,14640
+367,4,2022,3,Salaries,Dignissimos quis dolorem sit deserunt.,87846
+368,4,2022,3,Utilities,Fuga optio qui.,146410
+369,4,2022,3,Medical Supplies,Et ea eius vitae sint voluptates mollitia.,146410
+370,4,2022,3,Maintenance,Quia eveniet maxime magnam ut nulla.,14642
+371,5,2022,3,Rent,Ut dolorem aut distinctio voluptatem voluptatibus rem.,19034.600000000002
+372,5,2022,3,Salaries,Sed laboriosam minima aut.,114199.8
+373,5,2022,3,Utilities,Perferendis quia molestiae.,209366.30000000002
+374,5,2022,3,Medical Supplies,Et aut est sed voluptas.,209366.30000000002
+375,5,2022,3,Maintenance,Suscipit dolores perferendis.,19034.600000000002
+376,1,2022,4,Rent,Et amet tenetur aut voluptatem quia.,19032
+377,1,2022,4,Salaries,Voluptas alias a cupiditate atque qui qui voluptatibus.,114199.8
+378,1,2022,4,Utilities,Nihil animi maiores nihil modi est.,209366.30000000002
+379,1,2022,4,Medical Supplies,Natus veniam quod quaerat rerum quas.,209366.30000000002
+380,1,2022,4,Maintenance,Ut est optio.,19034.600000000002
+381,2,2022,4,Rent,Accusamus dolor blanditiis autem ab omnis modi.,14640
+382,2,2022,4,Salaries,Sed ut dolor explicabo dolores dolores voluptatem.,87846
+383,2,2022,4,Utilities,Aut porro consequatur deserunt quos eos numquam fugiat deleniti.,146410
+384,2,2022,4,Medical Supplies,Expedita voluptatem molestiae quasi magni.,146410
+385,2,2022,4,Maintenance,Illo nobis quibusdam debitis totam occaecati.,14640
+386,3,2022,4,Rent,Fuga optio sunt voluptatem laborum laudantium.,14642
+387,3,2022,4,Salaries,Porro velit praesentium.,87846
+388,3,2022,4,Utilities,Odio magni quasi et velit magni.,146410
+389,3,2022,4,Medical Supplies,Non nemo iste qui.,146410
+390,3,2022,4,Maintenance,Rerum nulla ipsa sed ea molestiae doloremque nobis sed.,14642
+391,4,2022,4,Rent,Dolores commodi natus sunt recusandae eaque blanditiis adipisci.,14642
+392,4,2022,4,Salaries,Dicta dolores consectetur quasi nam aliquid incidunt cupiditate.,87846
+393,4,2022,4,Utilities,Iusto ab nam.,146410
+394,4,2022,4,Medical Supplies,Ipsam quo eum qui in eaque magni nobis atque.,146410
+395,4,2022,4,Maintenance,Voluptatem mollitia sed sequi aut magni aut eos.,14640
+396,5,2022,4,Rent,Doloremque asperiores sit vel.,19034.600000000002
+397,5,2022,4,Salaries,Unde ratione dignissimos voluptas saepe explicabo suscipit.,114199.8
+398,5,2022,4,Utilities,Ipsum qui ea non aut vitae et voluptatem architecto.,209366.30000000002
+399,5,2022,4,Medical Supplies,Officia facere eveniet et est ex qui.,209366.30000000002
+400,5,2022,4,Maintenance,Odit repellat sit.,19032
+401,1,2022,5,Rent,Voluptas ut blanditiis eos dicta sunt.,19034.600000000002
+402,1,2022,5,Salaries,Sed eum aut in laborum necessitatibus porro ducimus.,114199.8
+403,1,2022,5,Utilities,Perspiciatis nihil fugiat fugit natus molestiae ratione repellendus.,209366.30000000002
+404,1,2022,5,Medical Supplies,Ullam quas excepturi deleniti.,209366.30000000002
+405,1,2022,5,Maintenance,Voluptas nihil sint iste officia odit.,19032
+406,2,2022,5,Rent,Consequatur reiciendis odio quo.,14642
+407,2,2022,5,Salaries,Voluptas nulla ipsa adipisci esse dolor dignissimos ex sint vitae.,87846
+408,2,2022,5,Utilities,Voluptatem dolor laudantium placeat earum illum esse veritatis ut culpa.,146410
+409,2,2022,5,Medical Supplies,Consequatur delectus tenetur assumenda praesentium consequatur quidem et.,146410
+410,2,2022,5,Maintenance,Optio dolores velit ipsum sed odio dignissimos similique a reiciendis.,14642
+411,3,2022,5,Rent,Expedita non doloribus ullam.,14642
+412,3,2022,5,Salaries,Ad eos atque.,87846
+413,3,2022,5,Utilities,Eum dolor consequuntur numquam voluptatum est nobis et sed quis.,146410
+414,3,2022,5,Medical Supplies,Sapiente consequatur id necessitatibus harum ratione sit harum quidem repudiandae.,146410
+415,3,2022,5,Maintenance,Quam quo voluptas repellat facilis corrupti velit omnis repudiandae.,14640
+416,4,2022,5,Rent,Dolorem magnam et molestiae quo eligendi minus quisquam velit veritatis.,14640
+417,4,2022,5,Salaries,Nobis eos porro ipsam animi eveniet quidem nostrum harum quidem.,87846
+418,4,2022,5,Utilities,Eveniet tempore exercitationem debitis fugiat reiciendis quas rerum accusamus expedita.,146410
+419,4,2022,5,Medical Supplies,Odio est dolores consequuntur sed eum atque.,146410
+420,4,2022,5,Maintenance,Mollitia voluptas facilis aut quaerat error in ullam.,14642
+421,5,2022,5,Rent,Dolorum soluta aliquam corrupti nesciunt dolorem.,19032
+422,5,2022,5,Salaries,Error id iure est cumque.,114199.8
+423,5,2022,5,Utilities,Unde non nemo itaque.,209366.30000000002
+424,5,2022,5,Medical Supplies,Ut itaque ad quae.,209366.30000000002
+425,5,2022,5,Maintenance,Et error ad ullam iste omnis quis.,19032
+426,1,2022,6,Rent,Incidunt laborum sit ut aperiam perferendis omnis eveniet.,19034.600000000002
+427,1,2022,6,Salaries,Aliquam animi harum deleniti illo.,114199.8
+428,1,2022,6,Utilities,Nulla alias doloremque doloribus autem.,209366.30000000002
+429,1,2022,6,Medical Supplies,Aut est soluta velit culpa.,209366.30000000002
+430,1,2022,6,Maintenance,Quaerat nulla cum consequuntur.,19032
+431,2,2022,6,Rent,Illo temporibus neque magni excepturi non delectus.,14640
+432,2,2022,6,Salaries,Quae doloremque itaque.,87846
+433,2,2022,6,Utilities,Minus aperiam est perspiciatis laboriosam tenetur commodi aut ducimus.,146410
+434,2,2022,6,Medical Supplies,Quae et quis eos consequatur eum fuga nihil itaque consequatur.,146410
+435,2,2022,6,Maintenance,Aliquid voluptatem et impedit voluptas quis voluptas vel.,14640
+436,3,2022,6,Rent,Et non iusto consequatur.,14642
+437,3,2022,6,Salaries,Earum deleniti officiis accusantium consequatur quam delectus nobis.,87846
+438,3,2022,6,Utilities,Aut et dolorum et voluptatem iusto non.,146410
+439,3,2022,6,Medical Supplies,Cumque sint occaecati sed placeat deserunt omnis.,146410
+440,3,2022,6,Maintenance,Tempore culpa qui molestiae nihil error fugiat aut voluptatem.,14640
+441,4,2022,6,Rent,Sed natus numquam reprehenderit sit.,14642
+442,4,2022,6,Salaries,Sunt voluptate odit aut maiores.,87846
+443,4,2022,6,Utilities,Et ratione nihil et aspernatur.,146410
+444,4,2022,6,Medical Supplies,Laudantium voluptatem aliquam quisquam similique laboriosam ut ut et.,146410
+445,4,2022,6,Maintenance,Et ut quo ipsum voluptas provident consequatur porro est eos.,14642
+446,5,2022,6,Rent,Necessitatibus aliquam doloribus ex et beatae eveniet ut.,19032
+447,5,2022,6,Salaries,Error nostrum quisquam nemo non doloribus provident.,114199.8
+448,5,2022,6,Utilities,Et qui possimus corporis ut molestiae incidunt perferendis dolore consectetur.,209366.30000000002
+449,5,2022,6,Medical Supplies,Enim enim maiores molestias.,209366.30000000002
+450,5,2022,6,Maintenance,Tenetur voluptatem autem rerum cupiditate.,19032
+451,1,2022,7,Rent,Magni dolor eaque autem sed deserunt aut quia ipsam tenetur.,19032
+452,1,2022,7,Salaries,Dolor eveniet omnis omnis ut unde.,114199.8
+453,1,2022,7,Utilities,Reiciendis temporibus laboriosam veniam et doloremque quo nam.,209366.30000000002
+454,1,2022,7,Medical Supplies,Ex non adipisci est rerum iste quas.,209366.30000000002
+455,1,2022,7,Maintenance,Rem magnam tempore.,19032
+456,2,2022,7,Rent,Similique vitae harum exercitationem dignissimos officiis ut.,14640
+457,2,2022,7,Salaries,Ut voluptas veniam officiis placeat aut exercitationem assumenda.,87846
+458,2,2022,7,Utilities,Quod nihil rem rerum voluptatem sunt in.,146410
+459,2,2022,7,Medical Supplies,Molestiae aliquid ut.,146410
+460,2,2022,7,Maintenance,Quia repudiandae omnis in debitis ut reiciendis est rerum qui.,14642
+461,3,2022,7,Rent,Sunt est est a assumenda ipsa consequatur nam dolor repellendus.,14640
+462,3,2022,7,Salaries,Unde temporibus sint quidem molestiae aliquam ab.,87846
+463,3,2022,7,Utilities,Quis suscipit fugit.,146410
+464,3,2022,7,Medical Supplies,Adipisci maiores aut tempore repellendus rerum quaerat autem.,146410
+465,3,2022,7,Maintenance,Similique ratione dolor dolorem consectetur consequatur perferendis reiciendis.,14640
+466,4,2022,7,Rent,Ducimus a eligendi eligendi.,14640
+467,4,2022,7,Salaries,Eveniet sapiente et quam et aliquid in cum.,87846
+468,4,2022,7,Utilities,Quisquam dicta omnis quia at minima consequatur impedit expedita.,146410
+469,4,2022,7,Medical Supplies,Debitis vitae eos minima maiores.,146410
+470,4,2022,7,Maintenance,Saepe voluptatem quia aspernatur quia totam.,14642
+471,5,2022,7,Rent,Cumque nihil velit tenetur accusantium enim molestiae deserunt aut.,19034.600000000002
+472,5,2022,7,Salaries,Itaque quia sapiente quis aut et qui nihil aut et.,114199.8
+473,5,2022,7,Utilities,Itaque sunt minus.,209366.30000000002
+474,5,2022,7,Medical Supplies,Et aut enim pariatur molestias qui.,209366.30000000002
+475,5,2022,7,Maintenance,Alias neque accusamus.,19034.600000000002
+476,1,2022,8,Rent,Eum repellat architecto veniam quisquam neque facere autem consequatur et.,19032
+477,1,2022,8,Salaries,Facilis consectetur officiis qui omnis minus.,114199.8
+478,1,2022,8,Utilities,Odio porro quibusdam placeat sint.,209366.30000000002
+479,1,2022,8,Medical Supplies,Amet est in omnis qui quae est.,209366.30000000002
+480,1,2022,8,Maintenance,Sit quidem dolorem corrupti ipsam facilis dolores deleniti facere saepe.,19034.600000000002
+481,2,2022,8,Rent,Enim architecto eaque sed aliquid saepe explicabo omnis accusantium consequatur.,14640
+482,2,2022,8,Salaries,Voluptas minus sunt omnis doloremque iusto dolore aperiam maxime.,87846
+483,2,2022,8,Utilities,Magnam sunt et quia similique.,146410
+484,2,2022,8,Medical Supplies,Id modi earum cumque.,146410
+485,2,2022,8,Maintenance,Et enim labore autem.,14640
+486,3,2022,8,Rent,Reprehenderit omnis unde velit omnis autem aut.,14640
+487,3,2022,8,Salaries,Dolore et illo omnis.,87846
+488,3,2022,8,Utilities,At consequuntur ut vitae voluptates blanditiis unde architecto quia voluptatem.,146410
+489,3,2022,8,Medical Supplies,Eaque quibusdam soluta dolor officia natus libero quam neque hic.,146410
+490,3,2022,8,Maintenance,Quis ut natus nostrum voluptatum mollitia beatae.,14642
+491,4,2022,8,Rent,Fugit ipsum omnis doloremque.,14640
+492,4,2022,8,Salaries,Aut neque quia necessitatibus voluptatum voluptas voluptatem.,87846
+493,4,2022,8,Utilities,Delectus est reprehenderit sint quod esse aliquid et non voluptas.,146410
+494,4,2022,8,Medical Supplies,Aut fuga nisi.,146410
+495,4,2022,8,Maintenance,Ut aut pariatur.,14642
+496,5,2022,8,Rent,Dolorem et sed quis cumque sint.,19032
+497,5,2022,8,Salaries,Eius amet dolore harum.,114199.8
+498,5,2022,8,Utilities,Doloremque corporis accusamus et vero aut vel maiores.,209366.30000000002
+499,5,2022,8,Medical Supplies,Ut eveniet delectus eum est.,209366.30000000002
+500,5,2022,8,Maintenance,Eos ipsam magnam consequatur.,19034.600000000002
+501,1,2022,9,Rent,Quae fugiat vitae.,19034.600000000002
+502,1,2022,9,Salaries,Illo quia illo dolorem vel exercitationem sit.,114199.8
+503,1,2022,9,Utilities,Veniam voluptates quaerat non laudantium nesciunt.,209366.30000000002
+504,1,2022,9,Medical Supplies,Rerum odit rerum atque iste ut optio rerum et.,209366.30000000002
+505,1,2022,9,Maintenance,Ea eveniet tempora harum.,19034.600000000002
+506,2,2022,9,Rent,Ipsam exercitationem voluptatibus ut.,14640
+507,2,2022,9,Salaries,Repudiandae corporis necessitatibus cum rem veritatis aliquam nulla dolor pariatur.,87846
+508,2,2022,9,Utilities,Eius saepe ea.,146410
+509,2,2022,9,Medical Supplies,Sint occaecati minima repellendus tenetur quo aut.,146410
+510,2,2022,9,Maintenance,Unde consectetur et qui nam dolorum sed aut similique.,14640
+511,3,2022,9,Rent,Omnis quia sapiente repudiandae velit est numquam totam placeat explicabo.,14640
+512,3,2022,9,Salaries,Ut facere in ea porro.,87846
+513,3,2022,9,Utilities,Est eveniet numquam voluptatibus omnis id et.,146410
+514,3,2022,9,Medical Supplies,Rerum eius iste dolorem fugit amet corrupti est reiciendis.,146410
+515,3,2022,9,Maintenance,Voluptatem labore neque eius.,14642
+516,4,2022,9,Rent,Soluta autem totam iure.,14640
+517,4,2022,9,Salaries,Facere a pariatur non repellendus magni.,87846
+518,4,2022,9,Utilities,Blanditiis porro est maiores deleniti ut quia ut quo quisquam.,146410
+519,4,2022,9,Medical Supplies,Quia voluptatem distinctio hic vel consequatur non.,146410
+520,4,2022,9,Maintenance,Itaque ut consectetur.,14642
+521,5,2022,9,Rent,Veritatis debitis qui.,19034.600000000002
+522,5,2022,9,Salaries,Eos nostrum numquam autem ut sunt.,114199.8
+523,5,2022,9,Utilities,Modi consequatur id exercitationem dolor facilis quia.,209366.30000000002
+524,5,2022,9,Medical Supplies,Iste error laborum.,209366.30000000002
+525,5,2022,9,Maintenance,Molestias tempora quisquam qui dolores maiores.,19032
+526,1,2022,10,Rent,Perspiciatis et nulla molestiae quia ipsam nisi aut placeat.,19034.600000000002
+527,1,2022,10,Salaries,Qui eaque minus reiciendis natus consequuntur omnis molestiae iure.,114199.8
+528,1,2022,10,Utilities,Accusantium fugit numquam id veniam quo non.,209366.30000000002
+529,1,2022,10,Medical Supplies,Quibusdam id cum molestiae eum dolor impedit consequatur ut.,209366.30000000002
+530,1,2022,10,Maintenance,Natus aut libero.,19032
+531,2,2022,10,Rent,Explicabo rerum ut tenetur.,14640
+532,2,2022,10,Salaries,Perferendis accusantium sit.,87846
+533,2,2022,10,Utilities,Repellat reprehenderit consequatur culpa consequuntur sit illo.,146410
+534,2,2022,10,Medical Supplies,Sit magni ut nihil.,146410
+535,2,2022,10,Maintenance,Ex ipsam odit laudantium tempore.,14642
+536,3,2022,10,Rent,Quia et vitae.,14640
+537,3,2022,10,Salaries,Aut amet delectus aut.,87846
+538,3,2022,10,Utilities,Facilis officia qui.,146410
+539,3,2022,10,Medical Supplies,Quia vero suscipit ullam ullam cumque rerum a.,146410
+540,3,2022,10,Maintenance,Sunt sed voluptate.,14642
+541,4,2022,10,Rent,Consequatur error animi ipsum rerum.,14642
+542,4,2022,10,Salaries,Vel voluptas ut sunt vel iste incidunt omnis cum explicabo.,87846
+543,4,2022,10,Utilities,Illum ut dignissimos fugiat exercitationem nihil et assumenda nulla.,146410
+544,4,2022,10,Medical Supplies,Odit ut similique id quo reprehenderit.,146410
+545,4,2022,10,Maintenance,Natus sit dolor autem ducimus ut.,14640
+546,5,2022,10,Rent,Debitis non soluta nam eius rerum placeat dolor.,19034.600000000002
+547,5,2022,10,Salaries,Explicabo quos aut qui quasi iste reiciendis sunt.,114199.8
+548,5,2022,10,Utilities,Officiis quas iusto impedit qui earum neque consequatur.,209366.30000000002
+549,5,2022,10,Medical Supplies,Modi est iusto voluptas distinctio porro similique deleniti modi laborum.,209366.30000000002
+550,5,2022,10,Maintenance,Quis ut omnis aut dolorem ut repellendus provident beatae.,19034.600000000002
+551,1,2022,11,Rent,Ipsa cupiditate atque hic.,19034.600000000002
+552,1,2022,11,Salaries,Voluptatem tempora molestiae cumque omnis non qui dolor.,114199.8
+553,1,2022,11,Utilities,Sint quis reiciendis.,209366.30000000002
+554,1,2022,11,Medical Supplies,Nobis et quidem sunt amet eos fuga et quis.,209366.30000000002
+555,1,2022,11,Maintenance,Reprehenderit aperiam inventore assumenda.,19034.600000000002
+556,2,2022,11,Rent,Id deserunt voluptas ipsa ratione eius nam.,14640
+557,2,2022,11,Salaries,Commodi voluptatem voluptatem quas molestiae qui qui.,87846
+558,2,2022,11,Utilities,Perspiciatis corrupti pariatur et eveniet rerum id officiis.,146410
+559,2,2022,11,Medical Supplies,Minima qui occaecati.,146410
+560,2,2022,11,Maintenance,Quibusdam consectetur sit similique doloremque corrupti sit distinctio.,14640
+561,3,2022,11,Rent,Molestias et perferendis dolores est aut.,14642
+562,3,2022,11,Salaries,Dolores laborum mollitia et assumenda.,87846
+563,3,2022,11,Utilities,Non ullam ut voluptas iste.,146410
+564,3,2022,11,Medical Supplies,Delectus voluptatem ipsam.,146410
+565,3,2022,11,Maintenance,Rem odio velit vitae voluptas numquam.,14642
+566,4,2022,11,Rent,Itaque ad culpa dolores consequatur et nihil autem inventore.,14642
+567,4,2022,11,Salaries,Quasi atque asperiores.,87846
+568,4,2022,11,Utilities,Eos perspiciatis sunt occaecati aliquam corporis illo.,146410
+569,4,2022,11,Medical Supplies,Ab nobis ut.,146410
+570,4,2022,11,Maintenance,Repellendus enim dolorum vel.,14640
+571,5,2022,11,Rent,Repellendus et architecto aut.,19034.600000000002
+572,5,2022,11,Salaries,Illo aut quia.,114199.8
+573,5,2022,11,Utilities,Voluptas ut recusandae possimus.,209366.30000000002
+574,5,2022,11,Medical Supplies,Dolorem eius facere et qui nobis rem.,209366.30000000002
+575,5,2022,11,Maintenance,Et et dolor quam sed repellat.,19032
+576,1,2022,12,Rent,Reprehenderit veniam earum qui quaerat labore enim.,19032
+577,1,2022,12,Salaries,Dolor ut sed ut iure aspernatur est sint ratione expedita.,114199.8
+578,1,2022,12,Utilities,Vitae animi ut ab occaecati.,209366.30000000002
+579,1,2022,12,Medical Supplies,Voluptas totam qui ea in cupiditate magnam facilis autem.,209366.30000000002
+580,1,2022,12,Maintenance,Incidunt ab sed quaerat praesentium error perspiciatis explicabo sint.,19032
+581,2,2022,12,Rent,Ex eveniet eum odio sapiente similique.,14642
+582,2,2022,12,Salaries,Iure dolorum optio est aspernatur et libero eum voluptatibus.,87846
+583,2,2022,12,Utilities,Excepturi aperiam neque consequatur distinctio quidem non asperiores maxime.,146410
+584,2,2022,12,Medical Supplies,Libero ut rerum perferendis id quasi adipisci autem.,146410
+585,2,2022,12,Maintenance,Qui laborum et eveniet vero ut blanditiis reprehenderit.,14642
+586,3,2022,12,Rent,Illum cupiditate non sit.,14642
+587,3,2022,12,Salaries,Qui eligendi odit.,87846
+588,3,2022,12,Utilities,Enim id facere culpa occaecati.,146410
+589,3,2022,12,Medical Supplies,Aut debitis nihil molestiae incidunt velit quia molestiae accusantium sit.,146410
+590,3,2022,12,Maintenance,Beatae ut recusandae eos.,14640
+591,4,2022,12,Rent,Voluptas voluptates aspernatur odio aliquid similique.,14642
+592,4,2022,12,Salaries,Cumque ea quia.,87846
+593,4,2022,12,Utilities,Excepturi eos explicabo provident voluptas optio eius eum.,146410
+594,4,2022,12,Medical Supplies,Dolorem exercitationem et qui.,146410
+595,4,2022,12,Maintenance,Similique excepturi quaerat.,14640
+596,5,2022,12,Rent,Cupiditate ullam aspernatur et qui sed.,19032
+597,5,2022,12,Salaries,Ut harum rerum.,114199.8
+598,5,2022,12,Utilities,Saepe eos id pariatur consequuntur sequi sunt qui amet.,209366.30000000002
+599,5,2022,12,Medical Supplies,Vel quidem ullam illo autem incidunt sapiente.,209366.30000000002
+600,5,2022,12,Maintenance,Vel temporibus officiis quos hic rem quae minima consequatur.,19034.600000000002
+601,1,2023,1,Rent,Est fugiat ipsa doloribus consequatur.,23030.8
+602,1,2023,1,Salaries,Eligendi soluta qui expedita adipisci facilis et.,138182.2
+603,1,2023,1,Utilities,Alias et debitis nostrum similique libero eius tenetur nihil.,253333.08000000005
+604,1,2023,1,Medical Supplies,Libero id qui iure modi necessitatibus id.,253333.08000000005
+605,1,2023,1,Maintenance,Sint pariatur ea maiores quis alias et.,23028.2
+606,2,2023,1,Rent,Quas quo quas quae ut aliquam fuga occaecati.,17716
+607,2,2023,1,Salaries,Dolor deleniti veniam sit.,106294
+608,2,2023,1,Utilities,Enim dolor non quibusdam.,177156
+609,2,2023,1,Medical Supplies,Laboriosam iste ut aut suscipit ipsa quia nam qui quis.,177158
+610,2,2023,1,Maintenance,Eos facere sunt ut commodi ut inventore omnis natus.,17716
+611,3,2023,1,Rent,Consequatur inventore tempora.,17716
+612,3,2023,1,Salaries,Cumque non in illo ullam molestiae ut amet.,106294
+613,3,2023,1,Utilities,Qui temporibus at in nihil sed consequatur nemo.,177156
+614,3,2023,1,Medical Supplies,Voluptatem voluptates deleniti quam distinctio assumenda ut soluta ipsam.,177156
+615,3,2023,1,Maintenance,Voluptatum id vitae.,17716
+616,4,2023,1,Rent,Voluptatibus quam itaque cumque nesciunt a sint molestiae est sapiente.,17716
+617,4,2023,1,Salaries,Quia modi vero enim.,106292
+618,4,2023,1,Utilities,Qui illum voluptate nostrum ea ipsum assumenda atque sit cum.,177156
+619,4,2023,1,Medical Supplies,Voluptatem iure odio aperiam quisquam quo ex qui iste.,177156
+620,4,2023,1,Maintenance,Commodi eum possimus.,17716
+621,5,2023,1,Rent,Sed voluptate perspiciatis maiores vel quam.,23030.8
+622,5,2023,1,Salaries,Non ipsum voluptate dolores enim at necessitatibus soluta commodi sint.,138182.2
+623,5,2023,1,Utilities,At et et quia numquam.,253333.08000000005
+624,5,2023,1,Medical Supplies,Assumenda dolores sunt esse.,253333.08000000005
+625,5,2023,1,Maintenance,Ullam sit qui.,23030.8
+626,1,2023,2,Rent,Aut delectus pariatur voluptas dignissimos tenetur quia consequatur deleniti.,23030.8
+627,1,2023,2,Salaries,Tempore quo ut enim sapiente ipsa modi id.,138182.2
+628,1,2023,2,Utilities,Ipsa corrupti cupiditate.,253333.08000000005
+629,1,2023,2,Medical Supplies,Atque et repellat accusantium non rerum omnis odit architecto.,253333.08000000005
+630,1,2023,2,Maintenance,Repellat aut enim consequatur maiores id.,23030.8
+631,2,2023,2,Rent,Quia id ut dignissimos in tempore facere sed nobis.,17716
+632,2,2023,2,Salaries,Veritatis doloribus autem mollitia harum ratione non ullam repellat.,106294
+633,2,2023,2,Utilities,Atque sapiente quia voluptas aut asperiores est.,177156
+634,2,2023,2,Medical Supplies,Ad ea ratione est natus quia incidunt animi.,177156
+635,2,2023,2,Maintenance,Eum repudiandae quia quidem necessitatibus sint.,17716
+636,3,2023,2,Rent,Quis error hic sint numquam exercitationem.,17716
+637,3,2023,2,Salaries,Quia at in vitae non quia rerum.,106294
+638,3,2023,2,Utilities,Fugit minima ratione adipisci quis voluptatem harum distinctio.,177156
+639,3,2023,2,Medical Supplies,Quia maiores et et laudantium fuga enim et id sed.,177156
+640,3,2023,2,Maintenance,Aut ad sunt.,17716
+641,4,2023,2,Rent,Doloribus modi temporibus eveniet rerum.,17714
+642,4,2023,2,Salaries,Quia et esse qui quia asperiores ullam.,106294
+643,4,2023,2,Utilities,Quaerat quia qui quod eius.,177156
+644,4,2023,2,Medical Supplies,Vero ab dolor.,177156
+645,4,2023,2,Maintenance,Sapiente eligendi alias facilis ducimus.,17716
+646,5,2023,2,Rent,Iusto quia sit dolores nemo et et.,23030.8
+647,5,2023,2,Salaries,Ex maiores et.,138182.2
+648,5,2023,2,Utilities,Beatae vitae eum a quia facilis.,253333.08000000005
+649,5,2023,2,Medical Supplies,Saepe doloremque et ut suscipit.,253333.08000000005
+650,5,2023,2,Maintenance,Eveniet voluptatum doloribus qui non ea qui dolores rerum a.,23030.8
+651,1,2023,3,Rent,Quis qui culpa provident fugiat sed facere sed velit quibusdam.,23030.8
+652,1,2023,3,Salaries,Rerum est voluptatem nulla dolores quae provident libero dolore.,138182.2
+653,1,2023,3,Utilities,Quia fugiat ipsam beatae.,253333.08000000005
+654,1,2023,3,Medical Supplies,Eos quasi et non accusamus nulla nostrum omnis commodi.,253333.08000000005
+655,1,2023,3,Maintenance,Ut provident est iusto quia et.,23028.2
+656,2,2023,3,Rent,Rem repudiandae earum iste et.,17716
+657,2,2023,3,Salaries,Tempora molestiae deserunt incidunt et.,106294
+658,2,2023,3,Utilities,Impedit vitae ipsum totam qui sint voluptatem error corrupti.,177156
+659,2,2023,3,Medical Supplies,Earum quia amet illo.,177156
+660,2,2023,3,Maintenance,Laborum eum laborum fuga iste molestiae quo.,17716
+661,3,2023,3,Rent,Laudantium est ducimus deserunt.,17716
+662,3,2023,3,Salaries,Deserunt architecto sunt amet animi quo est.,106294
+663,3,2023,3,Utilities,Perferendis corporis optio labore adipisci quas natus.,177156
+664,3,2023,3,Medical Supplies,Officiis porro consequatur aut minima consequuntur rem.,177156
+665,3,2023,3,Maintenance,A voluptatem non molestiae explicabo et ea qui.,17714
+666,4,2023,3,Rent,Quisquam qui harum quidem autem.,17716
+667,4,2023,3,Salaries,Est velit adipisci magnam recusandae.,106294
+668,4,2023,3,Utilities,Quas ducimus aut optio voluptatem animi.,177156
+669,4,2023,3,Medical Supplies,Ullam laboriosam ad autem ratione.,177156
+670,4,2023,3,Maintenance,Quis sit est eaque sit voluptatem voluptas illum animi dolores.,17716
+671,5,2023,3,Rent,Rem tempora ut.,23030.8
+672,5,2023,3,Salaries,Dolorem quae modi vel vitae qui possimus.,138182.2
+673,5,2023,3,Utilities,Amet laboriosam omnis enim culpa consequuntur.,253333.08000000005
+674,5,2023,3,Medical Supplies,Sed tempore officiis placeat.,253333.08000000005
+675,5,2023,3,Maintenance,Libero sint ipsa et minus aspernatur officia asperiores quod.,23030.8
+676,1,2023,4,Rent,Enim repudiandae sed commodi.,23030.8
+677,1,2023,4,Salaries,Deserunt corrupti animi ducimus non sint excepturi a dolorem voluptates.,138182.2
+678,1,2023,4,Utilities,Nam culpa explicabo eos nesciunt in quis.,253333.08000000005
+679,1,2023,4,Medical Supplies,Velit ut id molestiae quasi ducimus ut.,253333.08000000005
+680,1,2023,4,Maintenance,Ea molestias inventore provident reiciendis iusto.,23030.8
+681,2,2023,4,Rent,Non velit id officia asperiores suscipit.,17714
+682,2,2023,4,Salaries,Rerum sint ut pariatur voluptatem.,106294
+683,2,2023,4,Utilities,Suscipit nemo quia exercitationem in.,177156
+684,2,2023,4,Medical Supplies,Beatae aperiam dolorum corporis et culpa est enim.,177156
+685,2,2023,4,Maintenance,Culpa voluptatem eum qui aut.,17714
+686,3,2023,4,Rent,Debitis non quia dolorem placeat laboriosam iste.,17716
+687,3,2023,4,Salaries,Sed alias repudiandae animi ut error harum omnis.,106294
+688,3,2023,4,Utilities,Sed omnis sit magni quia ut deserunt.,177156
+689,3,2023,4,Medical Supplies,Qui maxime non amet minima et aut.,177156
+690,3,2023,4,Maintenance,In vel optio.,17716
+691,4,2023,4,Rent,Qui laborum officia vitae vel in fugit expedita quasi.,17716
+692,4,2023,4,Salaries,Et ut occaecati hic deleniti.,106294
+693,4,2023,4,Utilities,Impedit voluptatum exercitationem sint et inventore eum rerum sed.,177156
+694,4,2023,4,Medical Supplies,Nam reiciendis quis quis et.,177156
+695,4,2023,4,Maintenance,Pariatur deserunt eum ut.,17716
+696,5,2023,4,Rent,Totam quidem assumenda porro est molestiae totam.,23030.8
+697,5,2023,4,Salaries,Exercitationem earum et voluptatum qui dolorem accusantium eum sapiente.,138182.2
+698,5,2023,4,Utilities,Qui a consequatur sed.,253333.08000000005
+699,5,2023,4,Medical Supplies,Et odio natus et ipsum.,253335.94
+700,5,2023,4,Maintenance,Temporibus ex adipisci ipsa nobis aut ipsa totam.,23030.8
+701,1,2023,5,Rent,Quae hic consequatur perferendis perferendis molestiae nesciunt.,23030.8
+702,1,2023,5,Salaries,Deserunt unde consequatur suscipit ut impedit assumenda.,138182.2
+703,1,2023,5,Utilities,Facilis eos dolore ut odit provident quisquam dolores et.,253333.08000000005
+704,1,2023,5,Medical Supplies,Nulla nemo labore.,253333.08000000005
+705,1,2023,5,Maintenance,Recusandae aut non rem voluptates.,23030.8
+706,2,2023,5,Rent,Quam fugit molestias atque.,17716
+707,2,2023,5,Salaries,Cumque velit deserunt aut.,106294
+708,2,2023,5,Utilities,Ducimus molestiae est reiciendis.,177156
+709,2,2023,5,Medical Supplies,Quo quia dolore tenetur iure.,177156
+710,2,2023,5,Maintenance,Quae occaecati velit consequatur voluptate exercitationem unde fugit.,17716
+711,3,2023,5,Rent,Voluptatibus debitis id qui et dolores quis accusamus fugiat.,17716
+712,3,2023,5,Salaries,Sit nobis et incidunt sed excepturi.,106294
+713,3,2023,5,Utilities,Saepe error et ut voluptatem magnam.,177156
+714,3,2023,5,Medical Supplies,Exercitationem tempora quae fugiat non dolor incidunt adipisci corrupti.,177156
+715,3,2023,5,Maintenance,Maxime magni quis deserunt.,17714
+716,4,2023,5,Rent,Totam qui eius cupiditate qui reiciendis qui aut suscipit itaque.,17714
+717,4,2023,5,Salaries,Sit deserunt voluptas porro ut adipisci voluptatem quo praesentium.,106294
+718,4,2023,5,Utilities,Ipsam fuga suscipit reiciendis rerum exercitationem dolor dignissimos.,177156
+719,4,2023,5,Medical Supplies,Quidem error dolores qui ea exercitationem natus.,177156
+720,4,2023,5,Maintenance,Aspernatur odio atque ut praesentium pariatur.,17716
+721,5,2023,5,Rent,Distinctio dolores rerum unde dignissimos quaerat et.,23030.8
+722,5,2023,5,Salaries,Totam harum quasi error consequatur doloremque voluptatem.,138182.2
+723,5,2023,5,Utilities,Placeat atque consequuntur architecto dolores qui maiores quia doloribus.,253333.08000000005
+724,5,2023,5,Medical Supplies,Explicabo voluptatem possimus qui hic repellendus cumque ut.,253333.08000000005
+725,5,2023,5,Maintenance,Tempora tempore similique quam.,23028.2
+726,1,2023,6,Rent,Qui quia aut officia et suscipit et eveniet veritatis repellat.,23030.8
+727,1,2023,6,Salaries,Qui excepturi sapiente et.,138182.2
+728,1,2023,6,Utilities,Et consequuntur sed illum explicabo vero numquam.,253333.08000000005
+729,1,2023,6,Medical Supplies,Consequatur quisquam adipisci et alias praesentium odit incidunt.,253333.08000000005
+730,1,2023,6,Maintenance,Nostrum debitis voluptate fugiat debitis tempora nesciunt molestias voluptate.,23030.8
+731,2,2023,6,Rent,Et ex necessitatibus.,17716
+732,2,2023,6,Salaries,Iure ut ut et iusto occaecati id maiores voluptate.,106292
+733,2,2023,6,Utilities,Dicta sed velit quaerat odio doloremque quia explicabo.,177158
+734,2,2023,6,Medical Supplies,Quo veniam quam optio est facilis totam.,177156
+735,2,2023,6,Maintenance,Consequatur neque dolorum et.,17716
+736,3,2023,6,Rent,Optio quae deleniti est repellendus facilis eligendi consequuntur officiis.,17716
+737,3,2023,6,Salaries,Placeat porro voluptatem.,106294
+738,3,2023,6,Utilities,Quam eum voluptatem est vel animi quod.,177158
+739,3,2023,6,Medical Supplies,Quos necessitatibus facere ex nihil eos sed iure non ea.,177156
+740,3,2023,6,Maintenance,Dignissimos eum possimus ea eum rerum possimus consequuntur.,17716
+741,4,2023,6,Rent,Similique laboriosam consectetur qui consectetur minima neque ducimus qui.,17716
+742,4,2023,6,Salaries,Quisquam minima est natus maiores sapiente nam id aut.,106294
+743,4,2023,6,Utilities,Quibusdam sint aut nulla aut eum eos qui dolorum quaerat.,177156
+744,4,2023,6,Medical Supplies,Suscipit et aliquam consequatur.,177156
+745,4,2023,6,Maintenance,Architecto repellat in impedit occaecati assumenda quia quaerat incidunt ipsam.,17714
+746,5,2023,6,Rent,Dolorum error enim ea asperiores eum voluptate et et at.,23030.8
+747,5,2023,6,Salaries,Quod necessitatibus autem suscipit inventore totam in dolor incidunt.,138182.2
+748,5,2023,6,Utilities,Et natus voluptas quae doloribus tenetur qui.,253335.94
+749,5,2023,6,Medical Supplies,Eligendi saepe minus molestiae.,253335.94
+750,5,2023,6,Maintenance,Sed quaerat eos ut sit.,23030.8
+751,1,2023,7,Rent,Molestiae ut voluptate eveniet sunt.,23030.8
+752,1,2023,7,Salaries,Ut voluptate aut et dolores velit.,138182.2
+753,1,2023,7,Utilities,Accusamus ab quibusdam.,253333.08000000005
+754,1,2023,7,Medical Supplies,Accusantium quas qui repellat quaerat qui.,253333.08000000005
+755,1,2023,7,Maintenance,Possimus cupiditate non nam accusamus aspernatur nihil quis ea.,23030.8
+756,2,2023,7,Rent,Dolor enim eum temporibus labore.,17714
+757,2,2023,7,Salaries,Quaerat quidem voluptate dolorem sit assumenda.,106292
+758,2,2023,7,Utilities,Adipisci qui repellendus cumque.,177156
+759,2,2023,7,Medical Supplies,Ab quia sed rerum molestias ut quas fugit.,177156
+760,2,2023,7,Maintenance,Quae voluptas molestias nulla asperiores sed repellat.,17714
+761,3,2023,7,Rent,Qui quos exercitationem similique natus qui cum.,17716
+762,3,2023,7,Salaries,Officia velit blanditiis reiciendis dolorum minima harum repellendus aperiam.,106294
+763,3,2023,7,Utilities,Ullam dolorem totam corrupti maxime aut.,177156
+764,3,2023,7,Medical Supplies,Molestiae officia dolorum.,177156
+765,3,2023,7,Maintenance,Dignissimos et dolorem.,17716
+766,4,2023,7,Rent,Unde eos possimus id eius corporis rerum quis eos.,17714
+767,4,2023,7,Salaries,Dolorem autem voluptatibus vero non sed quia quis qui.,106294
+768,4,2023,7,Utilities,Placeat aut at est labore officiis in nisi.,177156
+769,4,2023,7,Medical Supplies,Eaque aut dolores omnis omnis minima.,177156
+770,4,2023,7,Maintenance,Qui et et possimus quo consequatur natus.,17716
+771,5,2023,7,Rent,Possimus ipsum qui hic rerum quas.,23030.8
+772,5,2023,7,Salaries,Non voluptas vel nihil explicabo.,138179.6
+773,5,2023,7,Utilities,Similique culpa porro.,253333.08000000005
+774,5,2023,7,Medical Supplies,Et tenetur cupiditate tenetur.,253333.08000000005
+775,5,2023,7,Maintenance,Enim ducimus et alias.,23030.8
+776,1,2023,8,Rent,Optio quidem minus accusamus ut nobis cum.,23030.8
+777,1,2023,8,Salaries,Voluptatum occaecati reprehenderit et quam.,138182.2
+778,1,2023,8,Utilities,Rerum id veniam aut.,253333.08000000005
+779,1,2023,8,Medical Supplies,Ut eum qui sequi tempore.,253333.08000000005
+780,1,2023,8,Maintenance,Corrupti sunt amet sit nulla explicabo officiis perspiciatis modi harum.,23030.8
+781,2,2023,8,Rent,Qui qui eum beatae.,17716
+782,2,2023,8,Salaries,Ut labore suscipit dolores accusamus harum sit voluptatum sunt reprehenderit.,106294
+783,2,2023,8,Utilities,Facilis fuga dignissimos sed odio.,177156
+784,2,2023,8,Medical Supplies,Tenetur aut est aut.,177156
+785,2,2023,8,Maintenance,Eum ducimus aut.,17716
+786,3,2023,8,Rent,Quod maiores molestiae.,17716
+787,3,2023,8,Salaries,Sequi saepe molestiae et et consequatur eum et expedita.,106292
+788,3,2023,8,Utilities,Quo aut impedit amet eos alias pariatur commodi qui ad.,177156
+789,3,2023,8,Medical Supplies,Sit natus libero debitis aspernatur laudantium earum voluptatum.,177156
+790,3,2023,8,Maintenance,Quia beatae rerum sint voluptates autem dolores eum laborum.,17716
+791,4,2023,8,Rent,Ab rerum et dolorem sit a quo.,17716
+792,4,2023,8,Salaries,Autem ratione quasi dolorum id tenetur dolore dolorem quaerat earum.,106294
+793,4,2023,8,Utilities,Omnis neque voluptatem esse ut labore nam neque.,177156
+794,4,2023,8,Medical Supplies,Ut veniam sequi.,177156
+795,4,2023,8,Maintenance,Repellendus qui sit explicabo et at qui.,17714
+796,5,2023,8,Rent,Odit in dicta aut qui corrupti vel ut libero eum.,23030.8
+797,5,2023,8,Salaries,Qui suscipit aliquam aut dolor laboriosam.,138182.2
+798,5,2023,8,Utilities,Voluptatem nisi quia dolorem quia odio.,253333.08000000005
+799,5,2023,8,Medical Supplies,Sit qui nam eos deserunt et sit iusto nemo.,253333.08000000005
+800,5,2023,8,Maintenance,Sapiente minus quaerat.,23030.8
+801,1,2023,9,Rent,Id consequatur tempore est repudiandae pariatur molestiae magnam magni.,23030.8
+802,1,2023,9,Salaries,Eos enim nihil omnis natus reprehenderit velit voluptatem et in.,138182.2
+803,1,2023,9,Utilities,Et voluptas veniam explicabo non nihil.,253333.08000000005
+804,1,2023,9,Medical Supplies,Dolorum ab tempora corporis mollitia sed explicabo nostrum iusto.,253333.08000000005
+805,1,2023,9,Maintenance,Voluptas repudiandae et beatae est nulla itaque cumque consequatur.,23028.2
+806,2,2023,9,Rent,Dolor rerum aperiam.,17716
+807,2,2023,9,Salaries,Laudantium eos et aut dolores eos veniam.,106294
+808,2,2023,9,Utilities,Sed hic tenetur quam non sit expedita voluptatem dolor.,177156
+809,2,2023,9,Medical Supplies,Velit quaerat et nulla ea saepe qui.,177156
+810,2,2023,9,Maintenance,Rerum ut molestias ipsum occaecati culpa ipsum vel soluta minus.,17716
+811,3,2023,9,Rent,Earum fugit et illum et et voluptas quo.,17714
+812,3,2023,9,Salaries,Molestiae enim excepturi reiciendis adipisci eius cupiditate aut soluta autem.,106294
+813,3,2023,9,Utilities,In ea et placeat.,177158
+814,3,2023,9,Medical Supplies,Velit laborum quo omnis sit provident ut et accusamus.,177156
+815,3,2023,9,Maintenance,Quaerat molestiae quae et sunt sint incidunt dolore est vel.,17714
+816,4,2023,9,Rent,Accusantium sequi labore.,17716
+817,4,2023,9,Salaries,Nemo tenetur cupiditate.,106294
+818,4,2023,9,Utilities,Debitis odit rem nostrum tempora occaecati qui perferendis voluptas quae.,177156
+819,4,2023,9,Medical Supplies,Modi quam saepe et tenetur sit deserunt quidem.,177156
+820,4,2023,9,Maintenance,Iure nemo sit earum sit ducimus quisquam est.,17716
+821,5,2023,9,Rent,Et aut delectus.,23028.2
+822,5,2023,9,Salaries,Quae reprehenderit vel et blanditiis provident eum nisi.,138182.2
+823,5,2023,9,Utilities,Cum nesciunt quia et.,253333.08000000005
+824,5,2023,9,Medical Supplies,Aut deserunt aspernatur quasi officia et autem ullam aut.,253333.08000000005
+825,5,2023,9,Maintenance,Nisi officiis ut debitis dolorem sed laboriosam odio totam.,23030.8
+826,1,2023,10,Rent,Laboriosam eaque exercitationem officia tempore enim minus.,23030.8
+827,1,2023,10,Salaries,Impedit excepturi animi nihil aliquid.,138179.6
+828,1,2023,10,Utilities,Alias ut consequuntur sed est libero quas velit velit.,253333.08000000005
+829,1,2023,10,Medical Supplies,Provident nulla incidunt aspernatur voluptatum est.,253333.08000000005
+830,1,2023,10,Maintenance,Nesciunt eius dolor qui.,23030.8
+831,2,2023,10,Rent,Quisquam ut reiciendis doloremque asperiores harum ut a.,17716
+832,2,2023,10,Salaries,Qui omnis nam qui quam laudantium fuga.,106294
+833,2,2023,10,Utilities,Est non vero eum quo ab sapiente nemo.,177156
+834,2,2023,10,Medical Supplies,Molestiae omnis debitis.,177156
+835,2,2023,10,Maintenance,Et consequatur dolores optio.,17716
+836,3,2023,10,Rent,Sit neque natus sit.,17716
+837,3,2023,10,Salaries,Sunt harum ratione dolor et.,106294
+838,3,2023,10,Utilities,Ab explicabo alias error.,177156
+839,3,2023,10,Medical Supplies,Vel illo occaecati voluptatem corporis.,177156
+840,3,2023,10,Maintenance,Quia fuga eum et culpa autem provident cupiditate.,17714
+841,4,2023,10,Rent,Perspiciatis consequatur voluptas magni eum et nobis eos asperiores et.,17716
+842,4,2023,10,Salaries,Ut sed ratione dolore aut corrupti sint ducimus.,106292
+843,4,2023,10,Utilities,Blanditiis soluta dolore deleniti.,177156
+844,4,2023,10,Medical Supplies,Vero eum molestiae non.,177156
+845,4,2023,10,Maintenance,Optio quos assumenda rerum perferendis tenetur est.,17716
+846,5,2023,10,Rent,Nam tenetur ex delectus aut debitis id tempora.,23030.8
+847,5,2023,10,Salaries,Corrupti facilis fuga id.,138182.2
+848,5,2023,10,Utilities,Itaque est perferendis voluptas ea dolor.,253333.08000000005
+849,5,2023,10,Medical Supplies,Sit culpa repudiandae ipsa est reiciendis ut.,253333.08000000005
+850,5,2023,10,Maintenance,Ipsum sit aut culpa illo quod.,23030.8
+851,1,2023,11,Rent,Harum laborum consequatur omnis atque corporis voluptate nam vero cupiditate.,23030.8
+852,1,2023,11,Salaries,Qui suscipit qui dignissimos ut sequi nostrum iste.,138179.6
+853,1,2023,11,Utilities,Nihil dignissimos hic nesciunt.,253333.08000000005
+854,1,2023,11,Medical Supplies,Nemo voluptas nesciunt qui quia neque.,253333.08000000005
+855,1,2023,11,Maintenance,Quis numquam quidem et illum possimus sed nisi blanditiis necessitatibus.,23030.8
+856,2,2023,11,Rent,Atque voluptatem ab necessitatibus aspernatur cupiditate nam quis voluptatem omnis.,17716
+857,2,2023,11,Salaries,Iure velit perspiciatis.,106294
+858,2,2023,11,Utilities,Qui ut sint ipsam eos eius nemo magnam odit voluptatem.,177156
+859,2,2023,11,Medical Supplies,Necessitatibus cumque et vero repellat sequi voluptatibus qui et.,177156
+860,2,2023,11,Maintenance,Minima culpa et quo sed laudantium.,17716
+861,3,2023,11,Rent,Aut et quia voluptatem.,17716
+862,3,2023,11,Salaries,Numquam consequatur nam sit harum aut aut eum labore.,106294
+863,3,2023,11,Utilities,Vel delectus aperiam illo.,177156
+864,3,2023,11,Medical Supplies,Sequi voluptates voluptatem asperiores commodi.,177156
+865,3,2023,11,Maintenance,Numquam assumenda perspiciatis modi sed est consectetur dolor qui.,17714
+866,4,2023,11,Rent,Qui deleniti consequatur est laudantium est impedit eos labore.,17714
+867,4,2023,11,Salaries,Est ex delectus impedit.,106294
+868,4,2023,11,Utilities,Quo optio ullam nemo qui dolores enim sed illo et.,177158
+869,4,2023,11,Medical Supplies,Deserunt voluptatem aliquid fuga commodi.,177156
+870,4,2023,11,Maintenance,In similique saepe pariatur voluptatem eligendi molestias a.,17716
+871,5,2023,11,Rent,Molestiae facilis placeat quaerat.,23030.8
+872,5,2023,11,Salaries,Facere quasi temporibus assumenda.,138182.2
+873,5,2023,11,Utilities,Tempora nulla id sunt ut assumenda est et nesciunt.,253333.08000000005
+874,5,2023,11,Medical Supplies,Aut sapiente molestiae magni a reprehenderit.,253333.08000000005
+875,5,2023,11,Maintenance,Nulla impedit numquam occaecati ex laudantium reprehenderit modi tempore.,23030.8
+876,1,2023,12,Rent,Et natus laboriosam dolorum repellendus consequuntur aut.,23030.8
+877,1,2023,12,Salaries,Iure est qui numquam vitae.,138182.2
+878,1,2023,12,Utilities,Libero aut dolorem.,253333.08000000005
+879,1,2023,12,Medical Supplies,Aut rerum eum quia.,253333.08000000005
+880,1,2023,12,Maintenance,Eos enim atque quo atque et eum in.,23030.8
+881,2,2023,12,Rent,Corrupti quam facere iure vero beatae qui consequatur expedita eveniet.,17714
+882,2,2023,12,Salaries,Magni omnis nulla quod.,106294
+883,2,2023,12,Utilities,Voluptatem ex tempora.,177156
+884,2,2023,12,Medical Supplies,Veritatis maiores fugit repellat quisquam ex.,177156
+885,2,2023,12,Maintenance,Nesciunt nemo libero est.,17716
+886,3,2023,12,Rent,Sed harum velit sed.,17714
+887,3,2023,12,Salaries,Magni sint molestiae sint corporis quia id.,106294
+888,3,2023,12,Utilities,Et velit et culpa.,177156
+889,3,2023,12,Medical Supplies,Ut ducimus velit quasi vel beatae ipsa.,177156
+890,3,2023,12,Maintenance,Nulla quidem et.,17714
+891,4,2023,12,Rent,Deserunt reiciendis aut aut eveniet.,17716
+892,4,2023,12,Salaries,Doloribus reprehenderit aut officia ea.,106294
+893,4,2023,12,Utilities,Sit accusamus aliquid eligendi quis earum in in.,177156
+894,4,2023,12,Medical Supplies,Ea nihil repellat rerum eum.,177156
+895,4,2023,12,Maintenance,Neque est aut molestiae nam sint ea possimus.,17714
+896,5,2023,12,Rent,Atque in in enim optio.,23030.8
+897,5,2023,12,Salaries,Deleniti hic aut aut eligendi architecto et.,138182.2
+898,5,2023,12,Utilities,Alias maiores quas.,253333.08000000005
+899,5,2023,12,Medical Supplies,Natus earum ut.,253333.08000000005
+900,5,2023,12,Maintenance,Ea placeat eligendi nihil eligendi unde.,23030.8

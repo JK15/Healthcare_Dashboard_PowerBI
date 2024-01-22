@@ -1,0 +1,6 @@
+ClinicID,ClinicName,Address,Phone,Location,Latitude,Longitude,Brand,AppointmentCapacity
+1,JKC Toronto,19483 Heidenreich Throughway,333-482-9319 x668,"Toronto, Ontario",43.699510,-79.361634,Group,100
+2,JKC Missisauga,157 White Isle,1-988-379-0429 x3188,"Missisauga, Ontario",43.589349,-79.689312,Inc,90
+3,JKC Oakville,98195 Louisa Ports,389-305-2708 x87394,"Oakville, Ontario",51.089309,-114.075196,Inc,60
+4,JKC Hamilton,4518 Wiegand Course,(582) 920-2801 x4066,"Hamilton, Ontario",44.609484,-63.564956,Group,60
+5,JKC Vancouver,82746 Bennie Crescent,399.947.7780 x0731,"Vancouver, British Columbia",45.467753,-73.561116,LLC,100
